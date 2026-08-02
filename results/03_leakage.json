@@ -1,0 +1,118 @@
+{
+  "duplicate_rates": {
+    "mean_hamming": 0.44189205505916446,
+    "median_hamming": 0.0,
+    "n_test": 33128,
+    "rates": {
+      "<=0 bits": 0.6927372615310311,
+      "<=2 bits": 0.9773907268775658,
+      "<=4 bits": 0.9989736778555904,
+      "<=8 bits": 1.0
+    }
+  },
+  "n_test": 33128,
+  "n_train": 116125,
+  "per_class_median_hamming": {
+    "A": 0.0,
+    "B": 0.0,
+    "C": 0.0,
+    "D": 0.0,
+    "E": 0.0,
+    "F": 0.0,
+    "G": 0.0,
+    "H": 0.0,
+    "I": 0.0,
+    "J": 0.0,
+    "K": 0.0,
+    "L": 0.0,
+    "M": 0.0,
+    "N": 0.0,
+    "Nothing": 1.0,
+    "O": 0.0,
+    "P": 0.0,
+    "Q": 0.0,
+    "R": 0.0,
+    "S": 0.0,
+    "Space": 0.0,
+    "T": 0.0,
+    "U": 0.0,
+    "V": 0.0,
+    "W": 0.0,
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  },
+  "sequential_frame_examples": [
+    {
+      "frame_gap": 3,
+      "hamming": 0,
+      "label": "A",
+      "test_frame": 1141,
+      "train_frame": 1138
+    },
+    {
+      "frame_gap": 5,
+      "hamming": 0,
+      "label": "A",
+      "test_frame": 1143,
+      "train_frame": 1138
+    },
+    {
+      "frame_gap": 3,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 90,
+      "train_frame": 87
+    },
+    {
+      "frame_gap": 2,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 903,
+      "train_frame": 905
+    },
+    {
+      "frame_gap": 1,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 904,
+      "train_frame": 905
+    },
+    {
+      "frame_gap": 193,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 906,
+      "train_frame": 1099
+    },
+    {
+      "frame_gap": 192,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 907,
+      "train_frame": 1099
+    },
+    {
+      "frame_gap": 1,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 917,
+      "train_frame": 916
+    },
+    {
+      "frame_gap": 4,
+      "hamming": 0,
+      "label": "Z",
+      "test_frame": 923,
+      "train_frame": 927
+    },
+    {
+      "frame_gap": 1,
+      "hamming": 0,
+      "label": "A",
+      "test_frame": 1052,
+      "train_frame": 1051
+    }
+  ],
+  "smoke": false
+}

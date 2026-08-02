@@ -1,0 +1,11 @@
+{
+  "figures": [
+    "D:\\Dev-arch\\Bournemouth University\\ComputerVision\\CW\\GROUP_CVP25-6_CourseWork\\asl-recognition\\reports\\figures\\07_slrvgg8_baseline_on_original.png",
+    "D:\\Dev-arch\\Bournemouth University\\ComputerVision\\CW\\GROUP_CVP25-6_CourseWork\\asl-recognition\\reports\\figures\\07_slrvgg8_baseline_on_aslhg.png",
+    "D:\\Dev-arch\\Bournemouth University\\ComputerVision\\CW\\GROUP_CVP25-6_CourseWork\\asl-recognition\\reports\\figures\\07_slrvgg8_honest_on_aslhg.png",
+    "D:\\Dev-arch\\Bournemouth University\\ComputerVision\\CW\\GROUP_CVP25-6_CourseWork\\asl-recognition\\reports\\figures\\07_asl_cnn_baseline_on_original.png",
+    "D:\\Dev-arch\\Bournemouth University\\ComputerVision\\CW\\GROUP_CVP25-6_CourseWork\\asl-recognition\\reports\\figures\\07_asl_cnn_baseline_on_aslhg.png",
+    "D:\\Dev-arch\\Bournemouth University\\ComputerVision\\CW\\GROUP_CVP25-6_CourseWork\\asl-recognition\\reports\\figures\\07_asl_cnn_honest_on_aslhg.png"
+  ],
+  "n_images_per_grid": 6
+}

@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch>=2.7
+torchvision>=0.22
+numpy
+pillow
+matplotlib
+pandas
+scikit-learn
+imagehash
+tqdm
+opencv-python
+# pinned: mediapipe 1.x removed the legacy solutions.hands API this project uses
+mediapipe==0.10.21
+pyyaml
+requests

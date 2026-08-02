@@ -1,0 +1,17 @@
+# Dataset roots, relative to this repo's root directory.
+# The original coursework data lives one level up and is treated as a frozen
+# historical artifact: the Train/Val/Test split there is the exact split that
+# produced the 100% test accuracy, and is never modified by this repo.
+paths:
+  asl_original: ../ASL_Dataset            # Kapil Londhe Kaggle dataset, pre-split (leaky)
+  digits_source: ../ASL_Digits_Dataset    # self-collected 990-image digits dataset (unsplit)
+  digits_train: ../Digits_Train           # historical 80/20 copy-split of the digits data
+  digits_test: ../Digits_Test
+  historical_checkpoints: ../checkpoints  # weights trained by the original notebook
+  aslhg: data/aslhg                       # ASL-HG (Mendeley j4y5w2c8w9) downloaded here
+  manifests: data/manifests
+  checkpoints: checkpoints
+  results: results
+  figures: reports/figures
+
+seed: 42
